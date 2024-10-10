@@ -66,7 +66,7 @@ if (!empty($_SESSION['activa'])) {
                 <img src="Cliente/img/ll.png" width="400px" height="400px" style="padding-top: 20px;">
             </div>
             <div class="col" style="background-color:#000497">
-                <h1 style="color: #ecf1ff">Autentificacion</h1>
+                <h1 style="color: #ecf1ff">Dania Cortés Domínguez</h1>
 
                 <form style="padding: 25px;" method="POST">
                     <div>
